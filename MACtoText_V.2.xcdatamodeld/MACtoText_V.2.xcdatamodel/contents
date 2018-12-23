@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14308.2" systemVersion="18A293u" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Forms" representedClassName="Forms" syncable="YES">
+        <attribute name="adSCCM" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="appsInstalled" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="department" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="desk" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dueDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="employeeID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="employeeName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imaged" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="inCollection" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="lease" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="mac" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="newHire" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="otherApps" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pcName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="replacement" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="softwareRan" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="ticket" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userAssigned" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="wiped" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Forms" positionX="-63" positionY="-18" width="128" height="330"/>
+    </elements>
+</model>
